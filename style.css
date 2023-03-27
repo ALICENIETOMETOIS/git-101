@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: 'Trebuchet MS';
+}
+
+#logo {
+  height: 120px;
+  width: 150px;
+}
+
+#container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+}
